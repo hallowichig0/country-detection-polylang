@@ -1,0 +1,25 @@
+{
+  "name": "hallowichig0/country-detection-polylang",
+  "license": "GPLv2 or later",
+  "description": "Detects the preferred language according on the country ip",
+  "homepage": "https://github.com/hallowichig0/country-detection-polylang",
+  "authors": [
+    {
+      "name": "Jayson Garcia",
+      "email": "garciajayson502@gmail.com",
+      "homepage": "https://hallowichig0.github.io"
+    }
+  ],
+  "keywords": [
+    "Country Detection",
+    "Polylang",
+    "Geolocation",
+    "Multilingual",
+    "Plugin",
+    "Wordpress"
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  }
+}
